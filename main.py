@@ -7,7 +7,7 @@ st.title("MlWhiz")
 
 
 
-os.environ['GOOGLE_API_KEY'] = " AIzaSyAKy0DBzkk0lyMtaZym9KilBjq4SjTOg_4"
+os.environ['GOOGLE_API_KEY'] = " YOUR_API_KEY"
 genai.configure(api_key = os.environ['GOOGLE_API_KEY'])
 
 
